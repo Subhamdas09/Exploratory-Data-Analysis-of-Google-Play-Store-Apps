@@ -2,7 +2,7 @@
 Exploratory Data Analysis on Google Play Store Apps
 This project focuses on performing Exploratory Data Analysis (EDA) on the Google Play Store dataset to understand the mobile app ecosystem, uncover trends, and generate actionable insights.
 
-🔍 ##Objectives
+##Objectives 🔍 
 
 Analyze the distribution of apps across different categories.
 Compare Free vs Paid apps and their popularity.
